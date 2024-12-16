@@ -1,0 +1,137 @@
+[
+  {
+    "id": "895e63e5-e10b-4438-b434-97640af1d5bd",
+    "title": "Weekly Grocery Shopping",
+    "description": "Buy milk, bread, eggs, and vegetables.",
+    "priority": "high",
+    "deadline": "2024-06-15",
+    "category": "personal",
+    "completed": false
+  },
+  {
+    "id": "0432f283-7dc1-4d3d-bf2a-023825cb5cef",
+    "title": "Prepare Quarterly Report",
+    "description": "Compile and finalize the Q2 financial report.",
+    "priority": "",
+    "deadline": "2024-06-18",
+    "category": "work",
+    "completed": true
+  },
+  {
+    "id": "bebfe120-c87e-469a-b22b-1ab140045f2d",
+    "title": "Gym Workout",
+    "description": "Attend strength training session at the gym.",
+    "priority": "medium",
+    "deadline": "2024-06-16",
+    "category": "health",
+    "completed": false
+  },
+  {
+    "id": "c2c311be-c814-4649-a272-297a7774e44f",
+    "title": "Schedule Dentist Appointment",
+    "description": "Book an appointment for regular dental cleaning.",
+    "priority": "medium",
+    "deadline": "2024-06-20",
+    "category": "personal",
+    "completed": false
+  },
+  {
+    "id": "90b6fc22-38bd-4d74-af2f-a3c972eda126",
+    "title": "Team Meeting Preparation",
+    "description": "Prepare slides and talking points for the Monday meeting.",
+    "priority": "high",
+    "deadline": "2024-06-17",
+    "category": "work",
+    "completed": false
+  },
+  {
+    "id": "11ab30d6-ac53-4482-b3f6-f33345270148",
+    "title": "Car Maintenance",
+    "description": "Oil change and tire rotation at the garage.",
+    "priority": "low",
+    "deadline": "2024-06-22",
+    "category": "personal",
+    "completed": false
+  },
+  {
+    "id": "9c4a1bed-8bb6-4d45-982b-c9c2b4d9a065",
+    "title": "Submit Assignment",
+    "description": "Complete and submit the economics project for college.",
+    "priority": "high",
+    "deadline": "2024-06-19",
+    "category": "education",
+    "completed": false
+  },
+  {
+    "id": "3aca9a6a-42a0-4ba9-9c20-c8c4b2b41b86",
+    "title": "Read Book Chapter",
+    "description": "Read chapters 3 and 4 of the book 'Atomic Habits'.",
+    "priority": "low",
+    "deadline": "2024-06-18",
+    "category": "personal",
+    "completed": false
+  },
+  {
+    "id": "a229c11b-44a6-4203-9183-c2cdacb38dcf",
+    "title": "Plan Family Dinner",
+    "description": "Organize a dinner for the family this weekend.",
+    "priority": "medium",
+    "deadline": "2024-06-16",
+    "category": "family",
+    "completed": false
+  },
+  {
+    "id": "216fa022-aa70-43b2-b7f5-6d1adfe3cc09",
+    "title": "Code Refactoring",
+    "description": "Refactor and optimize API service code.",
+    "priority": "high",
+    "deadline": "2024-06-20",
+    "category": "work",
+    "completed": false
+  },
+  {
+    "id": "c0e0d021-9077-4f7f-b62c-50d64c85f30b",
+    "title": "Yoga Session",
+    "description": "Join the evening online yoga class.",
+    "priority": "medium",
+    "deadline": "2024-06-16",
+    "category": "health",
+    "completed": false
+  },
+  {
+    "id": "dcf1cbd5-718a-4982-8edb-c323c0a3aa5c",
+    "title": "Fix Plumbing Issue",
+    "description": "Repair the leaking kitchen sink pipe.",
+    "priority": "high",
+    "deadline": "2024-06-17",
+    "category": "home",
+    "completed": false
+  },
+  {
+    "id": "0c00cb7e-89ad-46cf-ac0a-f6bd1b5f5c11",
+    "title": "Organize Workspace",
+    "description": "Clean and organize the desk and office space.",
+    "priority": "low",
+    "deadline": "2024-06-21",
+    "category": "personal",
+    "completed": false
+  },
+  {
+    "id": "db5c6293-b111-46e9-8e98-a68333e40f25",
+    "title": "Client Follow-Up",
+    "description": "Follow up with the client regarding the project proposal.",
+    "priority": "",
+    "deadline": "2024-06-18",
+    "category": "work",
+    "completed": true
+  },
+  {
+    "id": "efcab20a-4a98-4485-b899-3c60b8b65809",
+    "title": "Plan Vacation Itinerary",
+    "description": "Research and plan activities for the upcoming vacation.",
+    "priority": "",
+    "deadline": "2024-06-23",
+    "category": "personal",
+    "completed": true
+  }
+]
